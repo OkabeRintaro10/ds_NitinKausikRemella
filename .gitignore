@@ -1,0 +1,5 @@
+.venv/
+.python-version
+GEMINI.md
+uv.lock
+logs/
